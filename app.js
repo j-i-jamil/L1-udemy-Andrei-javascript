@@ -26,3 +26,4 @@ function printName() {
 }
 
 console.log(printName());
+console.log(`Jamil`);
